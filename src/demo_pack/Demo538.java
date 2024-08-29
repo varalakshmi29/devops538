@@ -6,10 +6,17 @@ public class Demo538 {
 		System.out.println("Hello universe");
 	}
 }
-public class VaraLakshmi
+class VaraLakshmi
 	{
 		public static void main(String args[])
 		{
 			System.out.println("hai");
 		}
 	}
+class Fun
+{
+   public static void myFun()
+   {
+	   System.out.println("hello");
+   }
+}
